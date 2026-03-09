@@ -1,6 +1,6 @@
 # Manager.io_Budget_Uploader
 
-Automate the budget values transcription process
+Automate the budget value transcription process
 
 ---
 
